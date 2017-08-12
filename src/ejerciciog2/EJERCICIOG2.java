@@ -16,7 +16,7 @@ public class EJERCICIOG2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOLA MUNDO DESDE GIT");
+        System.out.println("HOLA MUNDO DESDE GIT 2017 pull");
     }
     
 }
